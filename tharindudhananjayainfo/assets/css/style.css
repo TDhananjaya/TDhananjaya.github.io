@@ -3975,7 +3975,7 @@ h6, .h6 {
       font-size: 14px; }
     @media only screen and (min-width: 376px) {
       .info-box-item .content a {
-        font-size: 18px; } }
+        font-size: 16px; } }
     .info-box-item .content a:not(:hover) {
       color: white; }
 
